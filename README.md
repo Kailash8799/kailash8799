@@ -7,7 +7,7 @@
 
 <h3>ABOUT ME</h3>
 
-👋 Hello, I'm Kailash!
+👋 Hello, I'm Kailash Rajput!
 
 🎓 I'm studying computer engineering and love using technology to solve real-world problems. I've learned a lot about computer science through my studies.
 
