@@ -135,23 +135,14 @@ I'm a software engineer at **[Heizen](https://heizen.work)** (formerly OpenGig).
 ## GitHub stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kailash8799&show_icons=true&count_private=true&rank_icon=github&hide=commits,issues,contribs&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1&icon_color=2ea043" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=kailash8799&show_icons=true&count_private=true&rank_icon=github&hide=commits,issues,contribs&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=1a7f37" alt="Kailash Rajput's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash8799&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1&hide=jupyter%20notebook,tex,php,roff,css,scss&exclude_repo=Pacman-AI" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash8799&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&hide=jupyter%20notebook,tex,php,roff,css,scss&exclude_repo=Pacman-AI" alt="Most used languages" />
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kailash8799&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a09&title_color=f1efe9&text_color=aaa69b&icon_color=56c98a&rank_icon=github" alt="Kailash Rajput's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash8799&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a09&title_color=f1efe9&text_color=aaa69b&hide=jupyter%20notebook,tex,php,roff,css,scss&exclude_repo=Pacman-AI" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kailash8799&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=e6edf3&sideLabels=9198a1&currStreakNum=e6edf3&sideNums=e6edf3&dates=9198a1&stroke=30363d" />
-    <img src="https://streak-stats.demolab.com?user=kailash8799&hide_border=true&background=00000000&ring=1a7f37&fire=1a7f37&currStreakLabel=1f2328&sideLabels=59636e&currStreakNum=1f2328&sideNums=1f2328&dates=59636e&stroke=d1d9e0" alt="GitHub contribution streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=kailash8799&hide_border=true&background=0a0a09&ring=56c98a&fire=56c98a&currStreakLabel=f1efe9&sideLabels=aaa69b&currStreakNum=f1efe9&sideNums=f1efe9&dates=868277&stroke=2a2a26" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kailash8799&label=Profile%20views&color=2ea043&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kailash8799&label=Profile%20views&color=56c98a&style=flat-square" alt="Profile views" />
 </p>
